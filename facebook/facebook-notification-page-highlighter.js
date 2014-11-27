@@ -24,7 +24,7 @@ function handleNotifications() {
     $.each( items, function( key, item ) {
         var $item = $(item);
         var gt = $item.data("gt");
-        var notif_type = gt.notif_type
+        var notif_type = gt.notif_type;
         
         switch(notif_type)
         {
@@ -60,5 +60,4 @@ function handleNotifications() {
 $(document).ready(function() {  
     handleNotifications();
 });
-
 
