@@ -3,12 +3,12 @@
 // @description Removes like notifications from "Your Notifications" page, highlights comments, reduces opacity of group activity
 // @namespace   http://www.bekerle.com
 // @include     https://www.facebook.com/notifications
-// @version     0.6.1
+// @version     0.6.2
 // @grant       GM_addStyle
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js
 // @downloadURL https://raw.githubusercontent.com/pbek/greasemonkey-scripts/master/facebook/facebook-notification-page-highlighter.js
 // @updateURL   https://raw.githubusercontent.com/pbek/greasemonkey-scripts/master/facebook/facebook-notification-page-highlighter.js
-// @copyright   2013+, Patrizio Bekerle <patrizio@bekerle.com>
+// @copyright   2014, Patrizio Bekerle <patrizio@bekerle.com>
 // ==/UserScript==
 
 
